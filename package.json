@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Supercharge your email campaigns with node-email-campaigner to schedule and send robust emails on time and with proper formatting and templating.",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
